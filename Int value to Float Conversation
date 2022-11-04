@@ -1,0 +1,9 @@
+var a = 0
+
+print("Enter Int value in A")
+a=Int(readLine()!)!
+
+var b:Float = Float(a)
+
+print("Your Int value is",a)
+print("Your Float value is",b)
