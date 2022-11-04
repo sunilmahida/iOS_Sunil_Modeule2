@@ -1,0 +1,14 @@
+var a = 0
+var b = 0
+var c = ""
+
+print("Enter value of A")
+a=Int(readLine()!)!
+
+print("Enter value of B")
+b=Int(readLine()!)!
+
+print("Enter value of C")
+c=readLine()!
+
+print("Value of A is \(a) \nValue of B is \(b) \nValue of C is \(c)")
