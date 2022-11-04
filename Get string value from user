@@ -1,0 +1,5 @@
+var a = ""
+
+print("Enter Value of A")
+a=readLine()!
+print("You have entered\n",a)
