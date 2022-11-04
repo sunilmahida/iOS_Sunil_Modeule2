@@ -1,0 +1,12 @@
+var a = 0
+var b = 0
+
+let c = 5   // 'let' is an keyword that creates an constant of variable that value at time of declaration is assigned can nit be changed or can not get from user.
+
+print("Enter value of A")
+a=Int(readLine()!)!
+
+print("Enter value of B")
+b=Int(readLine()!)!
+
+print("Value of A is \(a) \n value of B is \(b) \n Value of C is \(c)")
